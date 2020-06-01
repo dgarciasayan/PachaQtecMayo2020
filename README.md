@@ -14,6 +14,6 @@ Esta es mi carpeta de trabajos del curso de **Programación Backend**
 
  - Git
 
-**Semana 1 Hakaton**
+**Semana 1 Hackaton**
 
  - Configurar GitHub y GitLab
