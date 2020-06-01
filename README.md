@@ -1,11 +1,13 @@
-<p align="center"> 
-<img.pequeña{
-  width: 50px; height: 50px;
-} 
-alt="PachaQtec-banner.png" src="https://scontent.flim2-1.fna.fbcdn.net/v/t1.0-9/75220807_154423752612237_1547747956818444288_n.png?_nc_cat=1&_nc_sid=85a577&_nc_eui2=AeEhgDEnUXrW4sJI4EYoP5jLIVC1ccEE4SghULVxwQThKJP-iOq_WBI3hh3mksV79e8&_nc_ohc=aVmrRyECK8sAX-wBshI&_nc_ht=scontent.flim2-1.fna&oh=a37bea97ee97cca59c5f671607320243&oe=5EF932E7" /> 
-</p>
+<p  align="center">
 
-## Contenido
+<img alt="PachaQtec-banner.png"  src="https://scontent.flim2-1.fna.fbcdn.net/v/t1.0-9/75220807_154423752612237_1547747956818444288_n.png?_nc_cat=1&_nc_sid=85a577&_nc_eui2=AeEhgDEnUXrW4sJI4EYoP5jLIVC1ccEE4SghULVxwQThKJP-iOq_WBI3hh3mksV79e8&_nc_ohc=aVmrRyECK8sAX-wBshI&_nc_ht=scontent.flim2-1.fna&oh=a37bea97ee97cca59c5f671607320243&oe=5EF932E7" /> 
+<br/><b><a href="https://pachaqtec.edu.pe/">https://pachaqtec.edu.pe/</a></b><br/><br/> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/dgarciasayan/PachaQtecMayo2020?style=plastic">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=orange&label=GitLab&logo=GitLab&logoColor=Facebook&style=plastic&url=https://gitlab.com/dgarciasayan/"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Facebook&logo=Facebook&logoColor=Facebook&style=plastic&url=https%3A%2F%2Fwww.facebook.com%2FPachaQtech%2F">
+  </p>
+
+# PachaQtec Mayo 2020
+Esta es mi carpeta de trabajos del curso de **Programación Backend**
+## Contehere`
 **Semana 1 Sesión 1**
 
  - Nada
@@ -18,6 +20,6 @@ alt="PachaQtec-banner.png" src="https://scontent.flim2-1.fna.fbcdn.net/v/t1.0-9/
 
  - Git
 
-**Semana 1 Hackaton**
+**Semana 1 Hakaton**
 
  - Configurar GitHub y GitLab
