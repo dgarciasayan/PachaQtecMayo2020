@@ -1,7 +1,6 @@
 <p align="center"> 
-![Banner](https://github.com/dgarciasayan/PachaQtecMayo2020/blob/master/Recursos/img/PachaQtec-banner.png)
-# PachaQtec Mayo 2020
-[![Build Status](https://travis-ci.org/jbetancur/react-data-table-component.svg?branch=master)](https://travis-ci.org/jbetancur/react-data-table-component) [![npm version](https://badge.fury.io/js/react-data-table-component.svg)](https://badge.fury.io/js/react-data-table-component) [![codecov](https://codecov.io/gh/jbetancur/react-data-table-component/branch/master/graph/badge.svg)](https://codecov.io/gh/jbetancur/react-data-table-component) [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://jbetancur.github.io/react-data-table-component)
+<img alt="PachaQtec" src="https://gitlab.com/dgarciasayan/pachaqtec-mayo-2020/-/blob/master/Recursos/img/PachaQtec-banner.png" /> 
+<br/><b><a href="https://pachaqtec.edu.pe">https://pachaqtec.edu.pe/</a></b><br/><br/><img alt="NPM Version" src="https://img.shields.io/github/package-json/v/saurabhdaware/text-to-handwriting?style=for-the-badge&labelColor=black&logo=npm&color=darkred" /> <a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> <br/><img alt="GitHub License MIT" src="https://img.shields.io/github/license/saurabhdaware/text-to-handwriting?style=for-the-badge&labelColor=black&logo=github"> <a href="https://twitter.com/saurabhcodes"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/saurabhcodes?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@saurabhcodes"></a><br/><br/> Esta es mi carpeta de trabajos del curso de **Programación Backend**
 </p>
 
 Esta es mi carpeta de trabajos del curso de **Programación Backend**
