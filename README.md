@@ -4,7 +4,7 @@
 <br/><b><a href="https://pachaqtec.edu.pe/">https://pachaqtec.edu.pe/</a>
 </p>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dgarciasayan/PachaQtecMayo2020)  ![GitLab](https://img.shields.io/twitter/url?color=orange&label=GitLab&logo=GitLab&style=social&url=https%3A%2F%2Fgitlab.com%2Fdgarciasayan%2F) ![Facebook](https://img.shields.io/twitter/url?color=orange&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FPachaQtech)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dgarciasayan/PachaQtecMayo2020)  ![GitLab](https://img.shields.io/twitter/url?color=orange&label=GitLab&logo=GitLab&style=social&url=https%3A%2F%2Fgitlab.com%2Fdgarciasayan%2F)(https://gitlab.com/dgarciasayan/) ![Facebook](https://img.shields.io/twitter/url?color=orange&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FPachaQtech)(https://www.facebook.com/PachaQtech)
 
 # PachaQtec Mayo 2020
 Esta es mi carpeta de trabajos del curso de **Programación Backend**
